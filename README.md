@@ -6,3 +6,6 @@ Discord automatic bot project.
 * Note: Do not start the Discord module without installing it!
 
 * Discord Module: Open CMD > Enter without quotation mark "pip install discord" 
+
+
+![logo-removebg-preview](https://github.com/user-attachments/assets/358fb5ea-2c0e-4b54-adef-c369ad8a9b3c)
